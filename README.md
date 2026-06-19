@@ -56,8 +56,11 @@ Training set: 80%
 
 ## Libraries Used
 pandas
+
 numpy
+
 matplotlib / seaborn
+
 scikit-learn
 Testing set: 20%
 Used train_test_split from sklearn
